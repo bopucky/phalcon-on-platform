@@ -1,5 +1,5 @@
 # phalcon-on-platform
-- Compile phalcon from source on Platform.sh using the custom script install-phpphalcon.sh
+- Compile phalcon from source on Platform.sh using the custom script install-phalcon.sh
 - Instructions to compile phalcom from source are https://docs.phalcon.io/4.0/en/installation#installation
 - This works for PHP 7.4 (and maybe 7.x, in general). Check with phalcon docs. Compilation does not work with PHP8.x.
 - PSR extension is also compiled since phalcon requires it. Obtained from https://github.com/jbboehr/php-psr
