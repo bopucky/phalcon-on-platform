@@ -12,4 +12,4 @@
         { bash install-phalcon.sh 4.0.0 ; } 3<&0
 ```
 These instructions assume that install-phalcon.sh has been committed to the repository.
-You can do something different if you wish. This is a proof of concept after all, so expect sharp edges, and refine as desired.
+You can do something different if you wish. This is a proof of concept, so expect sharp edges, and refine as desired.
